@@ -1,0 +1,156 @@
+{
+  "datasets": {
+    "ICSD": {
+      "input_records": 10000,
+      "assigned_records": 4056,
+      "status_counts": {
+        "error": 4449,
+        "ok": 4056,
+        "outside_scope": 1495
+      },
+      "families": 1873,
+      "singleton_families": 1467,
+      "multi_composition_families": 359,
+      "distinct_compositions": 3353,
+      "top10_record_coverage": 0.20216962524654833,
+      "top100_record_coverage": 0.4457593688362919,
+      "families_for_90pct_coverage": 1468,
+      "tolerance_family_counts": {
+        "0.05": 1928,
+        "0.1": 1873,
+        "0.2": 1836
+      },
+      "fraction_unchanged_vs_primary": {
+        "0.05": 0.5396942800788954,
+        "0.2": 0.41346153846153844
+      }
+    },
+    "MP": {
+      "input_records": 10000,
+      "assigned_records": 7886,
+      "status_counts": {
+        "ok": 7886,
+        "outside_scope": 2114
+      },
+      "families": 4306,
+      "singleton_families": 3540,
+      "multi_composition_families": 754,
+      "distinct_compositions": 7501,
+      "top10_record_coverage": 0.13644433172711135,
+      "top100_record_coverage": 0.2997717474004565,
+      "families_for_90pct_coverage": 3518,
+      "tolerance_family_counts": {
+        "0.05": 4648,
+        "0.1": 4306,
+        "0.2": 3964
+      },
+      "fraction_unchanged_vs_primary": {
+        "0.05": 0.427085975145828,
+        "0.2": 0.36824752726350496
+      }
+    },
+    "OQMD": {
+      "input_records": 10000,
+      "assigned_records": 9440,
+      "status_counts": {
+        "ok": 9440,
+        "outside_scope": 560
+      },
+      "families": 2037,
+      "singleton_families": 1458,
+      "multi_composition_families": 573,
+      "distinct_compositions": 9216,
+      "top10_record_coverage": 0.46652542372881356,
+      "top100_record_coverage": 0.6738347457627119,
+      "families_for_90pct_coverage": 1093,
+      "tolerance_family_counts": {
+        "0.05": 2165,
+        "0.1": 2037,
+        "0.2": 2036
+      },
+      "fraction_unchanged_vs_primary": {
+        "0.05": 0.6983050847457627,
+        "0.2": 0.2399364406779661
+      }
+    },
+    "LeMat": {
+      "input_records": 10000,
+      "assigned_records": 9748,
+      "status_counts": {
+        "ok": 9748,
+        "outside_scope": 252
+      },
+      "families": 3306,
+      "singleton_families": 2568,
+      "multi_composition_families": 738,
+      "distinct_compositions": 9674,
+      "top10_record_coverage": 0.3291957324579401,
+      "top100_record_coverage": 0.528621255642183,
+      "families_for_90pct_coverage": 2332,
+      "tolerance_family_counts": {
+        "0.05": 3381,
+        "0.1": 3306,
+        "0.2": 3255
+      },
+      "fraction_unchanged_vs_primary": {
+        "0.05": 0.6176651620845302,
+        "0.2": 0.40223635617562575
+      }
+    }
+  },
+  "common_rarefaction_max": 4056,
+  "reference_row_target_column_coverage": [
+    [
+      100.0,
+      36.368247527263506,
+      67.05508474576271,
+      47.33278621255642
+    ],
+    [
+      60.62623274161736,
+      100.0,
+      72.59533898305085,
+      57.3861304883053
+    ],
+    [
+      51.997041420118336,
+      38.168906923662185,
+      100.0,
+      59.519901518260156
+    ],
+    [
+      52.071005917159766,
+      41.51661171696678,
+      80.20127118644068,
+      100.0
+    ]
+  ],
+  "family_intersections": [
+    [
+      1873,
+      512,
+      333,
+      334
+    ],
+    [
+      512,
+      4306,
+      501,
+      546
+    ],
+    [
+      333,
+      501,
+      2037,
+      596
+    ],
+    [
+      334,
+      546,
+      596,
+      3306
+    ]
+  ],
+  "definition": "Chemistry-anonymous, normalized-primitive GraphID fingerprint plus maximum connected-component dimensionality; nearest-neighbor tolerances 0.05,0.1,0.2; no global isomorphism guarantee.",
+  "claims": "Descriptive sampled-cohort structural reuse; no population completeness, saturation or independence claim."
+}

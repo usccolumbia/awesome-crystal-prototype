@@ -1,0 +1,4 @@
+- [ ] Entry follows the format in CONTRIBUTING.md and sits in the right section
+- [ ] `python scripts/lint_readme.py` passes
+- [ ] Links open (`python scripts/check_links.py`)
+- [ ] Added to `data/prototype_libraries.csv` / `data/references.bib` if applicable

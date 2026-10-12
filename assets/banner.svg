@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Awesome Crystal Prototype">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f2a43"/><stop offset="1" stop-color="#1d5a7a"/></linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <g stroke="#7fc4e8" stroke-width="2" opacity=".55" fill="none">
+    <path d="M880 70 L1000 40 L1120 70 L1000 100 Z"/><path d="M880 150 L1000 120 L1120 150 L1000 180 Z"/>
+    <path d="M880 70 V150 M1000 100 V180 M1120 70 V150 M1000 40 V120"/>
+  </g>
+  <g fill="#f4b942"><circle cx="880" cy="70" r="9"/><circle cx="1120" cy="70" r="9"/><circle cx="880" cy="150" r="9"/><circle cx="1120" cy="150" r="9"/></g>
+  <g fill="#e8f4fb"><circle cx="1000" cy="40" r="9"/><circle cx="1000" cy="100" r="9"/><circle cx="1000" cy="120" r="9"/><circle cx="1000" cy="180" r="9"/></g>
+  <text x="60" y="118" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Awesome Crystal Prototype</text>
+  <text x="60" y="165" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#cfe8f5">Libraries, algorithms, databases and papers on crystal structural prototypes</text>
+</svg>

@@ -1,0 +1,14 @@
+resource,provider,year,equivalence_rule,reported_scope,download,license,url
+AFLOW Prototype Encyclopedia,AFLOW consortium (Duke; NRL origin),2017-2026,Curated; space group and Wyckoff positions with free parameters,"2,127 prototypes (Part 5)",CIF and POSCAR per prototype,not verified,https://aflow.org/p/
+AFLOW-XtalFinder,AFLOW consortium (Duke),2021,Symmetry prefilter then geometric misfit; optional decoration and magnetism,Automatic grouping of AFLOW and ICSD structures,Software in AFLOW,Open-source AFLOW code,https://aflow.org/
+CSPD,Jilin Univ.; Beijing CSRC,2017,Composition type and cell size then geometric similarity,"26,023 prototypes from COD",not verified,not verified,https://doi.org/10.1088/1361-648X/aa63cd
+LAE-ICSPD,Jilin Univ.,2022,Local-environment fingerprints and hierarchical clustering,"15,613 prototypes from ICSD",Supporting data,not verified,https://doi.org/10.1021/acs.jpca.2c03416
+JAMIP / integrated ICSPD,Jilin Univ.,2021,Inherits LAE-ICSPD,Generation and analysis infrastructure,Code repository,not verified,https://github.com/kzhoujlu/JAMIP-manual
+EMFDTW skeleton prototypes,Shanghai Univ.,2024,Distance-matrix functions compared by dynamic time warping,"17,340 skeleton prototypes",Supporting data,not verified,https://doi.org/10.1021/acs.cgd.4c00346
+CAMD,Toyota Research Institute,2020,Symmetry- and Wyckoff-based candidate generation from prototypes,Candidate library inside an autonomous discovery loop,Open-source code,not verified,https://doi.org/10.1039/D0SC01101K
+ICSD structure types,FIZ Karlsruhe,2007,"Assigned structure type: space group, Wyckoff sequence, stoichiometry",Curated experimental structures,Subscription,Proprietary,https://icsd.products.fiz-karlsruhe.de/
+TYPIX,Univ. Geneva; Springer/Gmelin,1993-1994,Standardized structure types,"Printed reference, four volumes",No (book),Publisher copyright,https://doi.org/10.1007/978-3-662-02909-1
+Pauling File,MPDS; NIMS,1998,Editor-assigned structure prototypes,"Inorganic structures, phase diagrams, properties",Subscription,Proprietary,https://paulingfile.com/
+Pearson's Crystal Data,ASM Int.; MPDS; Crystal Impact,1991,Assigned structure types,Inorganic structural records,Licensed software,Proprietary,https://crystalimpact.com/pcd/
+RCSR,Arizona State; ANU; UC Berkeley,2008,Net topology (symbol per net),Curated periodic nets,Web access,not verified,https://rcsr.net/
+ToposPro / TTD collection,Samara Center for Theoretical Materials Science,2014,Underlying net after simplification,Taxonomy of nets in real structures,Software,not verified,https://doi.org/10.1021/cg500498k
