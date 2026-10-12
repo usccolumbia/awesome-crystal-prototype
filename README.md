@@ -8,8 +8,22 @@
 
 A prototype is only meaningful together with its equivalence rule (space group and Wyckoff positions, geometric matching, local environments, or periodic-graph topology), so entries state the rule wherever a library reports a count. Counts obtained under different rules are not comparable.
 
+## About the Survey
+
+**A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications** (in preparation)
+
+Jianjun Hu<sup>1,*</sup>, Ying Feng<sup>1</sup>, Rongzhi Dong<sup>1,3</sup>, Jeffrey Hu<sup>2</sup>, Remy Rogers<sup>1</sup>, Dipannoy Gupta<sup>1</sup>
+
+<sup>1</sup> Department of Computer Science and Engineering, University of South Carolina, Columbia, SC 29201, USA<br>
+<sup>2</sup> Department of Materials Science and Engineering, University of Illinois Urbana-Champaign, Urbana, IL, USA<br>
+<sup>3</sup> Current affiliation: School of Artificial Intelligence, Wuhan University of Technology, Wuhan, China<br>
+<sup>*</sup> Corresponding author: jianjunh@cse.sc.edu
+
+The survey separates crystallographic types, geometric realizations, periodic topology and chemical decoration; compares curated and automatically extracted libraries; quantifies family statistics and definition sensitivity in four sampled collections; maps how prototypes enter substitution, screening, structure solution, CSP and generative design; and turns the limited-repertoire hypothesis into measurable quantities.
+
 ## Contents
 
+- [About the Survey](#about-the-survey)
 - [Prototype Libraries and Catalogs](#prototype-libraries-and-catalogs)
 - [Defining and Comparing Prototypes](#defining-and-comparing-prototypes)
 - [Source Databases](#source-databases)
@@ -245,7 +259,18 @@ Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the entry
 
 ## Citation
 
-If this list is useful, please cite the accompanying survey once it is available. A citation entry will be added here after publication.
+If this list is useful, please cite the accompanying survey once it is available:
+
+```bibtex
+@unpublished{Hu2026PrototypeSurvey,
+  author = {Hu, Jianjun and Feng, Ying and Dong, Rongzhi and Hu, Jeffrey and Rogers, Remy and Gupta, Dipannoy},
+  title  = {A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications},
+  note   = {In preparation},
+  year   = {2026}
+}
+```
+
+The entry will be updated with the venue and DOI after publication.
 
 ## License
 
