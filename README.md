@@ -177,6 +177,8 @@ Template-based prediction, hybrid pipelines, generators and baselines. Where cod
 * [WyCryst: Wyckoff Inorganic Crystal Generator Framework](https://doi.org/10.1016/j.matt.2024.05.042) (Zhu et al., 2024, Matter)
 * [Efficient symmetry-aware materials generation via hierarchical generative flow networks](https://doi.org/10.1039/d4dd00392f) (Nguyen et al., 2026, Digital Discovery)
 * [Symmetry-aware conditional generation of crystal structures using diffusion models](https://doi.org/10.1016/j.commatsci.2026.114789) (Ishii et al., 2026, Computational Materials Science)
+* [Crystal Composition Transformer: Self-Learning Neural Language Model for Generative and Tinkering Design of Materials](https://doi.org/10.1002/advs.202304305) - Transformer language model that generates chemical compositions for new materials (Wei et al., 2024, Advanced Science)
+* [Composition Based Oxidation State Prediction of Materials Using Deep Learning Language Models](https://doi.org/10.1002/advs.202301011) - Predicts oxidation states from composition alone, usable to check charge balance of generated compositions (Fu et al., 2023, Advanced Science)
 * [Discovery of 2D Materials using Transformer Network‐Based Generative Design](https://doi.org/10.1002/aisy.202300141) (Dong et al., 2023, Advanced Intelligent Systems)
 * [Data-driven discovery of 2D materials by deep generative models](https://doi.org/10.1038/s41524-022-00923-3) (Lyngby et al., 2022, npj Computational Materials)
 
