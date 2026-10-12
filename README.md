@@ -3,6 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23310817.svg)](https://doi.org/10.5281/zenodo.23310817)
 
 > A curated list of resources on **crystal structural prototypes**: the libraries that catalog them, the algorithms that define and compare them, the databases they are drawn from, and the discovery and crystal structure prediction (CSP) methods that reuse them. It accompanies the survey *A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications* (in preparation) and adds data from our own analysis of prototype families in four structure collections.
 
@@ -272,7 +273,7 @@ If this list is useful, please cite the accompanying survey once it is available
 }
 ```
 
-The entry will be updated with the venue and DOI after publication.
+This list is archived on Zenodo (all versions: [10.5281/zenodo.23310817](https://doi.org/10.5281/zenodo.23310817); v1.0.0: [10.5281/zenodo.23310818](https://doi.org/10.5281/zenodo.23310818)). The survey entry will be updated with the venue and DOI after publication.
 
 ## License
 
