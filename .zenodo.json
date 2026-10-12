@@ -1,0 +1,41 @@
+{
+  "title": "Awesome Crystal Prototype: a curated list of crystal structural prototype libraries, algorithms, databases, and CSP resources",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "license": "mit",
+  "publication_date": "2026-10-12",
+  "description": "<p>A curated list of resources on crystal structural prototypes: libraries, comparison algorithms, source databases, and discovery and crystal structure prediction methods. Includes machine-readable library tables, a bibliography, and family-level results of a GraphID analysis of ICSD, Materials Project, OQMD, and LeMat-Bulk samples. Accompanies the survey <em>A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications</em>.</p>",
+  "creators": [
+    {
+      "name": "Hu, Jianjun",
+      "affiliation": "Department of Computer Science and Engineering, University of South Carolina"
+    },
+    {
+      "name": "Feng, Ying",
+      "affiliation": "Department of Computer Science and Engineering, University of South Carolina"
+    },
+    {
+      "name": "Dong, Rongzhi",
+      "affiliation": "Department of Computer Science and Engineering, University of South Carolina"
+    },
+    {
+      "name": "Hu, Jeffrey",
+      "affiliation": "Department of Materials Science and Engineering, University of Illinois Urbana-Champaign"
+    },
+    {
+      "name": "Rogers, Remy",
+      "affiliation": "Department of Computer Science and Engineering, University of South Carolina"
+    },
+    {
+      "name": "Gupta, Dipannoy",
+      "affiliation": "Department of Computer Science and Engineering, University of South Carolina"
+    }
+  ],
+  "keywords": [
+    "crystal structure prototypes",
+    "crystal structure prediction",
+    "materials informatics",
+    "awesome list"
+  ],
+  "access_right": "open"
+}

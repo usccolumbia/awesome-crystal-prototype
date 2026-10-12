@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this resource list or the accompanying data, please cite it as below."
+title: "Awesome Crystal Prototype: a curated list of crystal structural prototype libraries, algorithms, databases, and CSP resources"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-12
+license: MIT
+repository-code: "https://github.com/usccolumbia/awesome-crystal-prototype"
+abstract: "A curated list of resources on crystal structural prototypes (libraries, comparison algorithms, source databases, discovery and crystal structure prediction methods), with machine-readable library tables, a bibliography, and family-level results of a GraphID analysis of ICSD, Materials Project, OQMD, and LeMat-Bulk samples. Accompanies the survey 'A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications'."
+keywords: [crystal structure prototypes, crystal structure prediction, materials informatics, awesome list]
+authors:
+  - family-names: Hu
+    given-names: Jianjun
+    affiliation: "Department of Computer Science and Engineering, University of South Carolina"
+  - family-names: Feng
+    given-names: Ying
+    affiliation: "Department of Computer Science and Engineering, University of South Carolina"
+  - family-names: Dong
+    given-names: Rongzhi
+    affiliation: "Department of Computer Science and Engineering, University of South Carolina"
+  - family-names: Hu
+    given-names: Jeffrey
+    affiliation: "Department of Materials Science and Engineering, University of Illinois Urbana-Champaign"
+  - family-names: Rogers
+    given-names: Remy
+    affiliation: "Department of Computer Science and Engineering, University of South Carolina"
+  - family-names: Gupta
+    given-names: Dipannoy
+    affiliation: "Department of Computer Science and Engineering, University of South Carolina"
