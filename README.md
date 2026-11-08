@@ -86,7 +86,8 @@ Standardization, equivalence rules and the algorithms that implement them.
 * [CMPZ---an algorithm for the efficient comparison of periodic structures](https://doi.org/10.1107/S0021889805032450) (Hundt et al., 2006, Journal of Applied Crystallography)
 * [Identifying duplicate crystal structures: XtalComp, an open-source solution](https://doi.org/10.1016/j.cpc.2011.11.007) (Lonie et al., 2012, Computer Physics Communications)
 * [Comparison of structures applying the tools available at the Bilbao Crystallographic Server](https://doi.org/10.1107/S1600576716002569) (Flor et al., 2016, Journal of Applied Crystallography)
-* [Comparing crystal structures with symmetry and geometry](https://doi.org/10.1038/s41524-021-00627-0) (Thomas et al., 2021, npj Computational Materials)
+* [Comparing crystal structures with symmetry and geometry](https://doi.org/10.1038/s41524-021-00627-0) - geometry-based and symmetry-adapted similarity metrics from lattice strain and atomic displacements, implemented in CASM (Thomas et al., 2021, npj Computational Materials)
+* [Universal graph-based identifiers of chemical structures for linking large material databases](https://doi.org/10.1038/s41467-026-74536-5) - GraphID, graph-based identifiers that link large materials databases; its topology-only option gives chemistry-anonymous families (Muraoka et al., 2026, Nature Communications)
 * [pymatgen](https://github.com/materialsproject/pymatgen) - Python library with StructureMatcher for fitting structures under tolerance settings. [[paper](https://doi.org/10.1016/j.commatsci.2012.10.028)]
 * [spglib](https://github.com/spglib/spglib) - Library for crystal symmetry search and space-group identification. [[paper](https://doi.org/10.1080/27660400.2024.2384822)]
 * [AFLOW-SYM: platform for the complete, automatic and self-consistent symmetry analysis of crystals](https://doi.org/10.1107/s2053273318003066) (Hicks et al., 2018, Acta Crystallographica Section A: Foundations and Advances)
@@ -101,7 +102,6 @@ Standardization, equivalence rules and the algorithms that implement them.
 * [Average minimum distances of periodic point sets -- foundational invariants for mapping periodic crystals](https://doi.org/10.46793/match.87-3.529w) (Widdowson et al., 2022, MATCH Communications in Mathematical and in Computer Chemistry)
 * [Pointwise Distance Distributions for detecting near-duplicates in large materials databases](https://arxiv.org/abs/2108.04798) (Widdowson et al., 2021)
 * [Definition of a scoring parameter to identify low-dimensional materials components](https://doi.org/10.1103/physrevmaterials.3.034003) (Larsen et al., 2019, Physical Review Materials)
-* [Universal graph-based identifiers of chemical structures for linking large material databases](https://doi.org/10.1038/s41467-026-74536-5) - GraphID, graph-based identifiers that link large materials databases; its topology-only option gives chemistry-anonymous families (Muraoka et al., 2026, Nature Communications)
 * [Robocrystallographer: automated crystal structure text descriptions and analysis](https://doi.org/10.1557/mrc.2019.94) (Ganose et al., 2019, MRS Communications)
 * [Atomic-position independent descriptor for machine learning of material properties](https://doi.org/10.1103/PhysRevB.98.214112) (Jain et al., 2018, Physical Review B)
 * [Rapid discovery of stable materials by coordinate-free coarse graining](https://doi.org/10.1126/sciadv.abn4117) (Goodall et al., 2022, Science Advances)
