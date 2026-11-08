@@ -5,9 +5,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23310817.svg)](https://doi.org/10.5281/zenodo.23310817)
 
-> A curated list of resources on **crystal structural prototypes**: the libraries that catalog them, the algorithms that define and compare them, the databases they are drawn from, and the discovery and crystal structure prediction (CSP) methods that reuse them. It accompanies the survey *A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications* (in preparation) and adds data from our own analysis of prototype families in four structure collections.
+> A curated list of resources on **crystal structural prototypes**: the libraries that catalog them, the algorithms that define and compare them, the databases they are drawn from, and the discovery and crystal structure prediction (CSP) methods that reuse them. It accompanies the survey *A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications* ([paper](https://arxiv.org/abs/2610.22600v1)) and adds data from our own analysis of prototype families in four structure collections.
 
-A prototype is only meaningful together with its equivalence rule (space group and Wyckoff positions, geometric matching, local environments, or periodic-graph topology), so entries state the rule wherever a library reports a count. Counts obtained under different rules are not comparable.
+
 
 ## About the Survey
 
@@ -256,6 +256,7 @@ Chemistry-anonymous GraphID families (primary neighbor tolerance 0.10) in fixed-
 
 <p align="center"><img src="assets/prototype_landscape.png" alt="Prototype landscape: information retained by each comparison method and reported library sizes" width="80%"></p>
 
+A prototype is only meaningful together with its equivalence rule (space group and Wyckoff positions, geometric matching, local environments, or periodic-graph topology), so entries state the rule wherever a library reports a count. Counts obtained under different rules are not comparable.
 ## Contributing
 
 Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format, then open a pull request or an issue.
