@@ -11,7 +11,7 @@ A prototype is only meaningful together with its equivalence rule (space group a
 
 ## About the Survey
 
-**A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications** (in preparation)
+**A Comprehensive Survey of Crystal Structural Prototypes: Construction, Classification, and Applications** ([paper](https://arxiv.org/abs/2610.22600v1))
 
 Jianjun Hu<sup>1,*</sup>, Ying Feng<sup>1</sup>, Rongzhi Dong<sup>1,3</sup>, Jeffrey Hu<sup>2</sup>, Remy Rogers<sup>1</sup>, Dipannoy Gupta<sup>1</sup>
 
